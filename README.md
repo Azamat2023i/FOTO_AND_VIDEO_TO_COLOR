@@ -6,6 +6,7 @@
 pip install -r requirements.txt
 ```
 Преобразование одного фото __one_file.py__
+
 Преобразование всех фото в папке __list_of_files.py__
 
 __Примеры__:
