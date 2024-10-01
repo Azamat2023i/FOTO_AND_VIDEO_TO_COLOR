@@ -30,3 +30,7 @@ __Примеры__:
   <img src="test_input/3.jpg" width="350" title="input3">
   <img src="test_output/3.jpg" width="350" title="output3">
 </p>
+<br><br><br><br>
+<a>Источники:</a>
+<br>
+<a>https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/</a>
