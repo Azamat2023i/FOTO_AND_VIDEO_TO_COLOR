@@ -7,6 +7,8 @@ pip install -r requirements.txt
 ```
 
 __Примеры__:
-<img src="test_input/1.jpg" width="400" title="input1">
-<img src="test_output/1.jpg" width="400" title="output1">
 
+<p align="center">
+  <img src="test_input/1.jpg" width="350" title="input1">
+  <img src="test_output/1.jpg" width="350" title="output1">
+</p>
