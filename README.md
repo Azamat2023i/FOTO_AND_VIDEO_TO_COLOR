@@ -9,6 +9,7 @@ pip install -r requirements.txt
 
 Преобразование всех фото в папке __list_of_files.py__
 
+
 __Примеры__:
 
 <p align="center">
