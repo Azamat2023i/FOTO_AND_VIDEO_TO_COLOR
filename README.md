@@ -31,6 +31,6 @@ __Примеры__:
   <img src="test_output/3.jpg" width="350" title="output3">
 </p>
 <br><br><br><br>
-<a>Источники:</a>
+<a>Обученная модель нейросети взята из этого сайта:</a>
 <br>
 <a>https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/</a>
