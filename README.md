@@ -15,18 +15,18 @@
 <div class="example">
     <div>
         <strong>Пример 1</strong><br>
-        <img src="test_input/1.jpg" alt="input1">
-        <img src="test_output/1.jpg" alt="output1">
+        <img src="test_input/1.jpg" width="350" alt="input1">
+        <img src="test_output/1.jpg" width="350" alt="output1">
     </div>
     <div>
         <strong>Пример 2</strong><br>
-        <img src="test_input/2.jpg" alt="input2">
-        <img src="test_output/2.jpg" alt="output2">
+        <img src="test_input/2.jpg" width="350" alt="input2">
+        <img src="test_output/2.jpg" width="350" alt="output2">
     </div>
     <div>
         <strong>Пример 3</strong><br>
-        <img src="test_input/3.jpg" alt="input3">
-        <img src="test_output/3.jpg" alt="output3">
+        <img src="test_input/3.jpg" width="350" alt="input3">
+        <img src="test_output/3.jpg" width="350" alt="output3">
     </div>
 </div>
 
