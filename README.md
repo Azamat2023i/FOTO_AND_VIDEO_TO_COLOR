@@ -12,7 +12,7 @@
 
 <h2>Примеры преобразования</h2>
 
-<div class="example">
+<div align="center">
     <div>
         <strong>Пример 1</strong><br>
         <img src="test_input/1.jpg" width="350" alt="input1">
