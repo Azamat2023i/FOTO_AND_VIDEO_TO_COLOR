@@ -1,37 +1,3 @@
-<!DOCTYPE html>
-<html lang="ru">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Преобразование черно-белых фотографий в цветные</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-        }
-        .example {
-            display: flex;
-            justify-content: center;
-            margin: 20px 0;
-        }
-        .example img {
-            width: 350px;
-            margin: 0 10px;
-        }
-        .requirements {
-            background-color: #eaeaea;
-            padding: 10px;
-            border-radius: 5px;
-        }
-    </style>
-</head>
-<body>
-
 <h1>Преобразование черно-белых фотографий в цветные</h1>
 
 <h2>Установка зависимостей</h2>
@@ -66,6 +32,4 @@
 
 <h2>Источник обученной модели</h2>
 <p>Обученная модель нейросети была взята с сайта <a href="https://www.geeksforgeeks.org/black-and-white-image-colorization-with-opencv-and-deep-learning/" target="_blank">GeeksforGeeks</a>.</p>
-</body>
-</html>
 
