@@ -19,9 +19,8 @@
 
 https://github.com/user-attachments/assets/83050367-2d11-4b85-b1f2-4225f16a7677
 
+https://github.com/user-attachments/assets/af0818a6-7c30-4360-900c-8869014b5722
 
-        <img src="test_video.mp4" width="350" alt="inputvideo1">
-        <img src="final_video.mp4" width="350" alt="outputvideo1">
     </div>
     <div>
         <strong>Photo 1</strong><br>
