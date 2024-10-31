@@ -8,23 +8,29 @@
 <ul>
     <li><strong>Convert a single image:</strong> <code>one_file.py</code></li>
     <li><strong>Convert all images in a folder:</strong> <code>list_of_files.py</code></li>
+    <li><strong>Convert the video:</strong> <code>video.py</code></li>
 </ul>
 
 <h2>Examples of Conversion</h2>
 
 <div align="center">
     <div>
-        <strong>Example 1</strong><br>
+        <strong>Vidoe</strong><br>
+        <img src="test_video.mp4" width="350" alt="inputvideo1">
+        <img src="final_video.mp4" width="350" alt="outputvideo1">
+    </div>
+    <div>
+        <strong>Photo 1</strong><br>
         <img src="test_input/1.jpg" width="350" alt="input1">
         <img src="test_output/1.jpg" width="350" alt="output1">
     </div>
     <div>
-        <strong>Example 2</strong><br>
+        <strong>Photo 2</strong><br>
         <img src="test_input/2.jpg" width="350" alt="input2">
         <img src="test_output/2.jpg" width="350" alt="output2">
     </div>
     <div>
-        <strong>Example 3</strong><br>
+        <strong>Photo 3</strong><br>
         <img src="test_input/3.jpg" width="350" alt="input3">
         <img src="test_output/3.jpg" width="350" alt="output3">
     </div>
